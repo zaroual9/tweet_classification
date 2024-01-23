@@ -5,7 +5,7 @@
     
     **Dataset:**
     The dataset contains the following columns:
-    \n
+   
     - `TweetId`: A unique identifier for each tweet.
     - `Label`: The target variable indicating whether the tweet is related to Politics or Sports
     - `TweetText`: The text content of the tweet
